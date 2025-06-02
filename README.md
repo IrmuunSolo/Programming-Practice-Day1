@@ -14,8 +14,9 @@ Arithmetic (add) ба Adder классууд бичсэн.
 Хосоороо код бичих.
 git checkout -b person-extension коммандаар шинэ branch үүсгэж, түүн рүү шилжээд 
 W3Resource Person Class>opp> Person.java класст хийсэн өөрчлөлт нь: 
-    - email атрибут нэмж, “@” шалгалттай getter/setter функц нэмэж бичсэн.
-    - Main класст emailGetter/Setter функцийг шалгасан.
+
+- email атрибут нэмж, “@” шалгалттай getter/setter функц нэмэж бичсэн.
+- Main класст emailGetter/Setter функцийг шалгасан.
 
 Гаралтын screenshot 
 <img src="/images/person 2 output.png" alt="Java Inheritance II success" width="600">
