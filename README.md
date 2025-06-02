@@ -1,5 +1,6 @@
 Бодлого 1. HackerRank: Java Inheritance I 
-Teams-ээр бодсон ажилтийн screenshot илгээсэн.
+Teams-ээр бодсон ажилтийн screenshot 
+![Person Class Output](/images/Screenshot 2025-06-02 120116.png)
 
 Бодлого 2. W3Resource: Person Class
 Person классыг name (String), age (int), greet функцтэй. Кодыг бичиж Maven төсөл дээр ажиллуулахад дараах үр дүн гарна.
@@ -16,4 +17,6 @@ Arithmetic (add) ба Adder классууд бичсэн.
 Teams-ээр бодсон ажилтийн screenshot илгээсэн.
 
 Хосоороо код бичих.
-Шинэ branch үүсгэж, түүн рүү шилжээд 
+git checkout -b person-extension коммандаар шинэ branch үүсгэж, түүн рүү шилжээд 
+хийсэн өөрчлөлт нь: 
+    email атрибут нэмж, “@” шалгалттай getter/setter функц нэмэж бичсэн.
