@@ -7,6 +7,14 @@ Teams-ээр бодсон ажилтийн screenshot
 ## Бодлого 2. W3Resource: Person Class# 
 Person классыг name (String), age (int), greet функцтэй. Кодыг бичиж Maven төсөл дээр ажиллуулахад дараах үр дүн гарна.
 
+Run code:
+
+```bash
+mvn compile
+mvn package
+java -cp target/oop-1.0-SNAPSHOT.jar com.example.Main
+```
+
 <img src="/images/Person output Screenshot.png" alt="Person class output" width="600">
 
 
