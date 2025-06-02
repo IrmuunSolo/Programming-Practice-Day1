@@ -22,6 +22,7 @@ W3Resource Person Class>opp> Person.java класст хийсэн өөрчлө�
     - Main класст emailGetter/Setter функцийг шалгасан.
 
 Гаралтын screenshot 
+
 <img src="/images/person 2 output.png" alt="Java Inheritance II success" width="600">
 
 Pull request-ийг хянах
