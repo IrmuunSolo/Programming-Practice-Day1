@@ -6,7 +6,8 @@ Teams-ээр бодсон ажилтийн screenshot
 
 <span style="font-size:24px">Бодлого 2. W3Resource: Person Class</span> 
 Person классыг name (String), age (int), greet функцтэй. Кодыг бичиж Maven төсөл дээр ажиллуулахад дараах үр дүн гарна.
-<img src="/images/Person output Screenshot.png" alt="Person class output" width="800">
+
+<img src="/images/Person output Screenshot.png" alt="Person class output" width="600">
 
 
 <span style="font-size:24px">Бодлого 3. HackerRank: Java Inheritance II </span> 
