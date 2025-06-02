@@ -1,6 +1,6 @@
 Бодлого 1. HackerRank: Java Inheritance I 
 Teams-ээр бодсон ажилтийн screenshot 
-<img src="/images/Screenshot 2025-06-02 120116.png" alt="Java Inheritance I success" width="300">
+<img src="/images/Screenshot 2025-06-02 120116.png" alt="Java Inheritance I success" width="800">
 
 Бодлого 2. W3Resource: Person Class
 Person классыг name (String), age (int), greet функцтэй. Кодыг бичиж Maven төсөл дээр ажиллуулахад дараах үр дүн гарна.
